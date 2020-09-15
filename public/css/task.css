@@ -1,0 +1,60 @@
+.taskInKanban{
+    display: flex;
+}
+
+.textTaskInKanban{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.textTaskInKanban p{
+    text-align: center;
+    height: auto;
+    margin: auto;
+    line-height: 19px;
+
+}
+
+.urgentBlockInTaskInKanban{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 17px;
+}
+.urgentBlockInTaskInViewBoard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 17px;
+    margin-right: 5px;
+}
+
+.webix_accordionitem_label{
+    text-align: center;
+    padding: 0;
+}
+
+.urgentInTaskInKanban{
+    margin-bottom: -19px;
+}
+
+.mainText{
+    font-size: 25px;
+}
+
+.flexBox {
+    display: flex;
+    height: 100%;
+    cursor: pointer;
+}
+
+.headerForKanbanView{
+    color: white;
+    margin: 0;
+    background-color: #657584;
+}
+
+.taskFromOtherProject{
+    color: #b3b3b3;
+}
