@@ -1,9 +1,9 @@
 import {mainData} from "./data/mainData.js";
 import {blockHeader} from "./blockPage/headerBlock.js"
 import {mainBlock} from "./blockPage/mainBlock.js"
-import {formBlock} from "./blockPage/formType/formBlock.js"
-import {viewBoardBlock} from "./blockPage/viewBoard/viewBoardBlock.js"
-import {editProjectTeamBlock} from "./blockPage/editProjectTeam/editProjectTeamBlock.js"
+import {formBlock} from "./blockPage/blockForm/formBlock.js"
+import {viewBoardBlock} from "./blockPage/blockViewBoard/viewBoardBlock.js"
+import {editProjectTeamBlock} from "./blockPage/blockEditProjectTeam/editProjectTeamBlock.js"
 import {actionEmployeesBlock} from "./blockPage/viewActionEmployeesBlock.js"
 
 

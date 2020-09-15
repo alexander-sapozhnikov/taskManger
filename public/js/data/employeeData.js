@@ -50,7 +50,7 @@ class EmployeeData{
     }
 
     update(employee, idEmployee){
-        item.idEmployee = idEmployee
+        employee.idEmployee = idEmployee
         dataUsualAction.update(employee, URL)
     }
 }

@@ -1,4 +1,5 @@
-import {mainData, Order} from "../data/mainData.js";
+import {mainData} from "../data/mainData.js";
+import {Order} from "../data/order.js"
 import {projectData} from "../data/projectData.js"
 import {employeeData} from "../data/employeeData.js"
 import {projectTeamData} from "../data/projectTeamData.js"

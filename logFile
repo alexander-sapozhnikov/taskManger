@@ -1,0 +1,3 @@
+user=postgres password='1' dbname=postgres sslmode=disable
+DB Connected
+pq: столбец "login" не существует

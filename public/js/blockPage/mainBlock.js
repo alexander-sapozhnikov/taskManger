@@ -1,4 +1,5 @@
-import {mainData, Order} from "../data/mainData.js";
+import {mainData} from "../data/mainData.js";
+import {Order} from "../data/order.js"
 import {getHeaderIdForThisPage, choiseDataBase,
     defineStateThroughTitleHeaderOrId} from "../supporting/helpFunction.js";
 import {showPage} from "../showPage.js";

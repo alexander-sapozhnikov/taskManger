@@ -2,13 +2,6 @@ import {dataUsualAction} from "../supporting/dataUsualAction.js";
 import {employeeAndProjectTeamData} from "./employeeAndProjectTeamData.js";
 import {projectData} from "./projectData.js";
 
-function ProjectTeam(idProjectTeam, nameProjectTeam, teamLead, employees){
-    this.idProjectTeam = idProjectTeam
-    this.nameProjectTeam = nameProjectTeam
-    this.teamLead = teamLead
-    this.employees = employees
-}
-
 const URL = "/projectTeam/"
 
 class ProjectTeamData{

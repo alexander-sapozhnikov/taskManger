@@ -1,6 +1,7 @@
 import {taskData} from "../data/taskData.js";
 import {employeeData} from "../data/employeeData.js";
-import {mainData, Order} from "../data/mainData.js";
+import {mainData} from "../data/mainData.js";
+import {Order} from "../data/order.js"
 import {showPage} from "../showPage.js";
 
 let projectTeam
